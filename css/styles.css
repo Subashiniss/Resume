@@ -1,0 +1,212 @@
+body {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat',serif;
+}
+
+.reg{
+  padding-bottom: 20px;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.bottom-container{
+  padding:50px 0 20px;
+  background-color: #66BFBF;
+}
+.middle-container{
+  /* background-color:#F9F9F9; */
+
+}
+.suwro {
+   padding-bottom:20px;
+}
+.pad{
+  padding-bottom: 50px;
+}
+/* .profile{ */
+  /* background-color:#F9F9F9; */
+
+/* .subwor{
+  margin: 0 0 1.5em;
+  padding:0;
+  font-size:1.4em;
+  font-weight:300;
+  display:block;
+  margin-block-start:1em;
+  margin-block-end:1em;
+  margin-inline-start:0px;
+  margin-inline-end:0px;
+
+  line-height: 1.42857143;
+  color: #545454;
+  width:80%;
+} */
+.hugi{
+  width:80%;
+  text-align: left;
+  margin:auto;
+}
+.modif{
+  border-radius: 60%;
+  background-color: #CBE4DE;
+  margin-top:30px;
+  margin-bottom: 30px;
+}
+.mot{
+  margin-top:30px;
+  margin-bottom: 30px;min-height: 40%; min-width: 40%; max-width: 65%; max-height: 65%; margin-left: auto; margin-right: auto; border-radius: 10px;
+}
+
+
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-size:560.5%;
+  font-family: 'Sacramento',cursive;
+  color: #66BFBF;
+  line-height: 1;
+  padding-top: 100px;
+  padding-bottom: 50px;
+
+}
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color:#11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+p{
+  line-height: 2;
+  font-size: 1.25rem;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:4%;
+  margin:100px auto;
+}
+.par{
+  margin-bottom:50px;
+}
+.paw{
+  margin-bottom: 50px;
+}
+a{
+  color:#11999E;
+  font-family: Montserrat sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color:#BFACE2;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  margin-bottom: 200px;
+
+}
+.top_cloud {
+  position: relative;
+  top: 40px;
+  margin-left: 400px;
+  right: 200px;
+  padding-bottom: 200px;
+
+}
+
+.code-img{
+  border-radius: 50%;
+  width:30%;
+  float:left;
+  margin-right: 30px;
+}
+.intro{
+  width:30%;
+  margin:auto;
+  text-align: left;
+}
+.personality-img{
+  border-radius: 50%;
+  width:40%;
+  float: right;
+  margin-left: 30px;
+}
+div {
+  background-color: #EAFDFC;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left:200px;
+  bottom:300px;
+
+}
+#contact-me{
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.contact-message{
+  width:40%;
+  margin:40px auto 60px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.bi{
+  background: #2B3467;
+}
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 1rem;
+  padding:20px 0;
+}
+.navbar{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight:bold;
+  color: #66BFBF;
+}
+.nav-item{
+  padding: 0 14px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  color: #66BFBF;
+}
